@@ -1,2 +1,2 @@
-# LeetCode-Solutions
-A repository containing solutions for problems on LeetCode.
+# DSA-Solutions
+A repository containing solutions for all the popular interview questions topic-wise.
